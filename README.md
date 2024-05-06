@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christian7dev
 - 👀 I’m interested in Mobile, web development and cyber security 
-- 🌱 I’m currently learning cyber security
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me christianmisikir@gmail.com
 
 <!---
